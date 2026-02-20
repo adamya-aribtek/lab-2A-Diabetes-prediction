@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Kaggle / Colab
+*.zip
